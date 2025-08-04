@@ -1,0 +1,161 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml-internal">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+    </metadata>
+  </head>
+  <body dur="04:52.671">
+    <div begin="00:27.380" end="04:52.671">
+      <p begin="00:27.380" end="00:39.980" ttm:agent="v1" itunes:key="L1">
+        瞳閉じて 今思い浮かぶのは 笑顔ばかりではないけれども
+        <span ttm:role="x-translation" xml:lang="zh-CN">闭上双眼 在脑海中浮现出的 尽管并非只有笑颜</span>
+        <span ttm:role="x-roman">Hitomi tojite ima omoi ukabu no wa    Egao bakari de wa nai keredomo</span>
+      </p>
+      <p begin="00:39.980" end="00:51.960" ttm:agent="v1" itunes:key="L2">
+        誰もが願いのため 約束の答えを 探し求めてた
+        <span ttm:role="x-translation" xml:lang="zh-CN">每个人依然为了 自己的心愿 追寻着约定的答案</span>
+        <span ttm:role="x-roman">Dare mo ga negai no tame    Yakusoku no kotae o sagashi motomete ta</span>
+      </p>
+      <p begin="00:51.960" end="01:04.030" ttm:agent="v1" itunes:key="L3">
+        もう遠い昔の 出来事だったのような でも ほんの昨日のことのような
+        <span ttm:role="x-translation" xml:lang="zh-CN">似乎已然是陈年往事 却又恍若昨日一般</span>
+        <span ttm:role="x-roman">Mou tooi mukashi no dekigoto datta no you na    Demo honno kinou no koto no you na</span>
+      </p>
+      <p begin="01:04.030" end="01:14.430" ttm:agent="v1" itunes:key="L4">
+        交わした言葉が 今でも静かに 心を揺さぶる
+        <span ttm:role="x-translation" xml:lang="zh-CN">我们交谈的话语 此刻依然悄悄地 拨动心弦</span>
+        <span ttm:role="x-roman">Kawashita kotoba ga ima demo shizuka ni  Kokoro o yusaburu</span>
+      </p>
+      <p begin="01:14.430" end="01:20.480" ttm:agent="v1" itunes:key="L5">
+        思い出たち 抱えてゆく これからずっと
+        <span ttm:role="x-translation" xml:lang="zh-CN">将不断涌现的回忆 拥入怀中 今后也不会放手</span>
+        <span ttm:role="x-roman">Omoidetachi kakaete yuku korekara zutto</span>
+      </p>
+      <p begin="01:20.480" end="01:26.130" ttm:agent="v1" itunes:key="L6">
+        胸の奥の深い青に 寄り添うまま
+        <span ttm:role="x-translation" xml:lang="zh-CN">就这样依偎在内心深处的蔚蓝之中</span>
+        <span ttm:role="x-roman">Mune no oku no fukai ao ni yorisou mama</span>
+      </p>
+      <p begin="01:26.130" end="01:32.870" ttm:agent="v1" itunes:key="L7">
+        あなたとなら 何も怖くはないから
+        <span ttm:role="x-translation" xml:lang="zh-CN">只要和你在一起 我就毫无畏惧</span>
+        <span ttm:role="x-roman">Anata to nara Nani mo kowaku wa nai kara</span>
+      </p>
+      <p begin="01:32.870" end="01:39.300" ttm:agent="v1" itunes:key="L8">
+        前へ進もう 次の扉の向こう
+        <span ttm:role="x-translation" xml:lang="zh-CN">继续大步前进，推开下一扇门吧</span>
+        <span ttm:role="x-roman">Mae e susumou tsugi no tobira no mukou</span>
+      </p>
+      <p begin="01:51.430" end="02:02.990" ttm:agent="v1" itunes:key="L9">
+        すれ違うことや 過ちもあったね 傷つけられたり 傷つけたり
+        <span ttm:role="x-translation" xml:lang="zh-CN">彼此曾有过分歧 也曾犯过错误 曾伤痕累累 也曾伤害他人</span>
+        <span ttm:role="x-roman">Surechigau koto ya ayamachi mo atta ne Kizutsukeraretari kizutsuketari</span>
+      </p>
+      <p begin="02:02.990" end="02:15.960" ttm:agent="v1" itunes:key="L10">
+        誰もが完璧じゃない それでも 未来へ ただ走り続けてた
+        <span ttm:role="x-translation" xml:lang="zh-CN">尽管每个人并非完美 即使那样仍向着未来 一心不断奔跑着</span>
+        <span ttm:role="x-roman">Dare mo ga kanpeki janai soredemo mirai e Tada hashiri tsuzuketeta</span>
+      </p>
+      <p begin="02:15.960" end="02:21.699" ttm:agent="v1" itunes:key="L11">
+        喜び 楽しみ 嬉しさ 悲しさ
+        <span ttm:role="x-translation" xml:lang="zh-CN">喜悦、期盼、快乐、悲伤</span>
+        <span ttm:role="x-roman">Yorokobi tanoshimi ureshisa kanashisa</span>
+      </p>
+      <p begin="02:21.699" end="02:27.780" ttm:agent="v1" itunes:key="L12">
+        怒りも 悩みも 綱い交ぜになっていた
+        <span ttm:role="x-translation" xml:lang="zh-CN">愤怒也好、烦恼也罢,全都纠缠在了一起</span>
+        <span ttm:role="x-roman">Ikari mo nayami mo naimaze ni natte ita</span>
+      </p>
+      <p begin="02:27.780" end="02:38.130" ttm:agent="v1" itunes:key="L13">
+        心と心が ぶつかる でもだからこそここまでこれたよ
+        <span ttm:role="x-translation" xml:lang="zh-CN">心与心之间相互碰撞 但也正因如此 我们才能走到这里</span>
+        <span ttm:role="x-roman">Kokoro to kokoro ga butsukaru Demo dakara koso koko made koreta yo</span>
+      </p>
+      <p begin="02:38.130" end="02:44.460" ttm:agent="v1" itunes:key="L14">
+        見上げた空 流れ星も 瞬くときを
+        <span ttm:role="x-translation" xml:lang="zh-CN">仰望星空 流星划过天边 转瞬即逝</span>
+        <span ttm:role="x-roman">Miageta sora nagareboshi mo matataku toki o</span>
+      </p>
+      <p begin="02:44.460" end="02:50.220" ttm:agent="v1" itunes:key="L15">
+        どうしてだろう とても長く感じてたんだ
+        <span ttm:role="x-translation" xml:lang="zh-CN">不知为何 感觉这一瞬间无比漫长</span>
+        <span ttm:role="x-roman">Doushite darou totemo nagaku kanjitetan da</span>
+      </p>
+      <p begin="02:50.220" end="02:56.790" ttm:agent="v1" itunes:key="L16">
+        夜が来ても それで終わりじゃないから
+        <span ttm:role="x-translation" xml:lang="zh-CN">即便黑夜将至 那也绝不意味着结束</span>
+        <span ttm:role="x-roman">Yoru ga kite mo sore de owari ja nai kara</span>
+      </p>
+      <p begin="02:56.790" end="03:03.544" ttm:agent="v1" itunes:key="L17">
+        さようならじゃなく また明日ねって言って
+        <span ttm:role="x-translation" xml:lang="zh-CN">所以请别说"再见" 向我道声"明天见"吧</span>
+        <span ttm:role="x-roman">Sayounara janaku mata ashita ne tte itte</span>
+      </p>
+      <p begin="03:08.100" end="03:12.061" ttm:agent="v1" itunes:key="L18">
+        限りない愛と
+        <span ttm:role="x-translation" xml:lang="zh-CN">紧抱着无限的爱</span>
+        <span ttm:role="x-roman">Kagirinai ai to</span>
+      </p>
+      <p begin="03:13.804" end="03:18.403" ttm:agent="v1" itunes:key="L19">
+        ぬくもりを抱きしめ
+        <span ttm:role="x-translation" xml:lang="zh-CN">与温暖</span>
+        <span ttm:role="x-roman">Nukumori o dakishime</span>
+      </p>
+      <p begin="03:19.785" end="03:23.946" ttm:agent="v1" itunes:key="L20">
+        この空に祈ろう
+        <span ttm:role="x-translation" xml:lang="zh-CN">向这片天空祈祷吧</span>
+        <span ttm:role="x-roman">Kono sora ni inorou</span>
+      </p>
+      <p begin="03:26.690" end="03:39.800" ttm:agent="v1" itunes:key="L21">
+        暗闇の中で 芽生えた光は やがていくつもの 希望の樹となり
+        <span ttm:role="x-translation" xml:lang="zh-CN">在无尽的黑暗中 那萌生的曙光 终将化为无数希望的起源</span>
+        <span ttm:role="x-roman">Kurayami no naka de mebatta hikari wa Yagate ikutsumo no kibou no ki to nari</span>
+      </p>
+      <p begin="03:39.800" end="03:54.607" ttm:agent="v1" itunes:key="L22">
+        強く輝いて 感情の海へと 溢れて照らし出すよ
+        <span ttm:role="x-translation" xml:lang="zh-CN">奋力闪烁 向着感情之海 倾注下满盈的光芒 照耀四方</span>
+        <span ttm:role="x-roman">Tsuyoku kagayaite kanjou no umi e to Koborete terashidasu yo</span>
+      </p>
+      <p begin="04:02.700" end="04:08.500" ttm:agent="v1" itunes:key="L23">
+        頬を伝う涙の音 優しくなぞる
+        <span ttm:role="x-translation" xml:lang="zh-CN">顺着脸颊 流下的泪痕 被你用</span>
+        <span ttm:role="x-roman">Hoho o tsutau namida no oto Yasashiku nazoru</span>
+      </p>
+      <p begin="04:08.500" end="04:14.100" ttm:agent="v1" itunes:key="L24">
+        柔らかくて 穢れのないその指先
+        <span ttm:role="x-translation" xml:lang="zh-CN">那柔软又无暇的指尖温柔拭去</span>
+        <span ttm:role="x-roman">Yawarakakute kegare no nai sono yubisaki</span>
+      </p>
+      <p begin="04:14.100" end="04:23.940" ttm:agent="v1" itunes:key="L25">
+        時を経っても 変わらない一つだけの 大切なこと
+        <span ttm:role="x-translation" xml:lang="zh-CN">纵使时过境迁也不会改变 那份独一无二的重要之物</span>
+        <span ttm:role="x-roman">Toki o hette mo kawaranai hitotsu dake no Taisetsu na koto</span>
+      </p>
+      <p begin="04:23.940" end="04:26.410" ttm:agent="v1" itunes:key="L26">
+        教えてくれた
+        <span ttm:role="x-translation" xml:lang="zh-CN">是你告诉了我</span>
+        <span ttm:role="x-roman">oshiete kureta</span>
+      </p>
+      <p begin="04:26.410" end="04:32.410" ttm:agent="v1" itunes:key="L27">
+        想い出たち抱えてゆく これからずっと
+        <span ttm:role="x-translation" xml:lang="zh-CN">将不断涌现的回忆 拥入怀中 今后也不会放手</span>
+        <span ttm:role="x-roman">Omoidetachi kakaete yuku korekara zutto</span>
+      </p>
+      <p begin="04:32.410" end="04:38.05" ttm:agent="v1" itunes:key="L28">
+        胸むねの奥おくの深ふかい青あおに 寄より添そうまま
+        <span ttm:role="x-translation" xml:lang="zh-CN">就这样依偎在内心深处的蔚蓝之中</span>
+        <span ttm:role="x-roman">Mune no oku no fukai ao ni yorisou mama</span>
+      </p>
+      <p begin="04:38.05" end="04:44.82" ttm:agent="v1" itunes:key="L29">
+        あなたとなら 何なにも怖こわくはないから
+        <span ttm:role="x-translation" xml:lang="zh-CN">只要和你在一起 我就什么都不怕</span>
+        <span ttm:role="x-roman">Anata to nara Nani mo kowaku wa nai kara</span>
+      </p>
+      <p begin="04:44.82" end="04:51.800" ttm:agent="v1" itunes:key="L30">
+        前まえへ進すすもう 次つぎの扉とびらの向むこう
+        <span ttm:role="x-translation" xml:lang="zh-CN">继续大步前进，向着下一扇门出发吧</span>
+        <span ttm:role="x-roman">Mae e susumou tsugi no tobira no mukou</span>
+      </p>
+    </div>
+  </body>
+</tt>
